@@ -1,0 +1,13 @@
+/home/sugei/Estructura_De_Datos/ejercicios_edd/bin/Debug/netcoreapp3.1/ejercicios_edd
+/home/sugei/Estructura_De_Datos/ejercicios_edd/bin/Debug/netcoreapp3.1/ejercicios_edd.deps.json
+/home/sugei/Estructura_De_Datos/ejercicios_edd/bin/Debug/netcoreapp3.1/ejercicios_edd.runtimeconfig.json
+/home/sugei/Estructura_De_Datos/ejercicios_edd/bin/Debug/netcoreapp3.1/ejercicios_edd.runtimeconfig.dev.json
+/home/sugei/Estructura_De_Datos/ejercicios_edd/bin/Debug/netcoreapp3.1/ejercicios_edd.dll
+/home/sugei/Estructura_De_Datos/ejercicios_edd/bin/Debug/netcoreapp3.1/ejercicios_edd.pdb
+/home/sugei/Estructura_De_Datos/ejercicios_edd/obj/Debug/netcoreapp3.1/ejercicios_edd.csprojAssemblyReference.cache
+/home/sugei/Estructura_De_Datos/ejercicios_edd/obj/Debug/netcoreapp3.1/ejercicios_edd.AssemblyInfoInputs.cache
+/home/sugei/Estructura_De_Datos/ejercicios_edd/obj/Debug/netcoreapp3.1/ejercicios_edd.AssemblyInfo.cs
+/home/sugei/Estructura_De_Datos/ejercicios_edd/obj/Debug/netcoreapp3.1/ejercicios_edd.csproj.CoreCompileInputs.cache
+/home/sugei/Estructura_De_Datos/ejercicios_edd/obj/Debug/netcoreapp3.1/ejercicios_edd.dll
+/home/sugei/Estructura_De_Datos/ejercicios_edd/obj/Debug/netcoreapp3.1/ejercicios_edd.pdb
+/home/sugei/Estructura_De_Datos/ejercicios_edd/obj/Debug/netcoreapp3.1/ejercicios_edd.genruntimeconfig.cache
